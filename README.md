@@ -1,13 +1,13 @@
 # SSR去广告规则/GFWList规则/Clash规则碎片
 
-* CDN更新状态：[![Actions Status](https://github.com/ACL4SSR/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/ACL4SSR/ACL4SSR/actions)
+* CDN更新状态：[![Actions Status](https://github.com/Darkatse/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/Darkatse/ACL4SSR/actions)
 * 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 仅推荐未root的安卓手机使用。
 * Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
 * 有问题可以发issue或者私聊：**[https://t.me/leosam2048](https://t.me/leosam2048)**
 * 在线订阅转换：**[https://acl4ssr.netlify.com](https://acl4ssr.netlify.com)**
-* 镜像同步地址：**[https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@latest/](https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@latest/)**
-* [关于中国的互联网](https://github.com/ACL4SSR/ACL4SSR/wiki/关于中国的互联网)
+* 镜像同步地址：**[https://cdn.jsdelivr.net/gh/Darkatse/ACL4SSR@latest/](https://cdn.jsdelivr.net/gh/Darkatse/ACL4SSR@latest/)**
+* [关于中国的互联网](https://github.com/Darkatse/ACL4SSR/wiki/关于中国的互联网)
   
 
 # 安卓 SSR 去广告ACL规则
@@ -27,13 +27,13 @@
 
 文件               | 默认  | 去广告  | 局域网 |   国内IP段  |   国内域名    |     国外
 ----              | ----  |  ----  | ----  |   ----     |     ----     |    ----
-[banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl)         |  代理  |   是   |  直连  |    有-直连  | 常用域名-直连  |  代理-常用国外域名增强
-[onlybanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl)     |  代理  |   是   |  直连  |    无      |    无         |  代理-常用国外域名增强
-[nobanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl)       |  代理  |   否   |  直连  |    有-直连  |  常用域名-直连 |  全局代理
-[backcn-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl)  |  代理  |   是   |  直连  |    有-代理  |    无         | 直连-gfwlist列表 
-[gfwlist-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl) |  直连  |   是   |  直连  |    无      |    无         |  代理-gfwlist列表
-[fullgfwlist.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl )   |  直连  |   否   |  直连  |    无      |    无         |  代理-gfwlist列表
-[gfwlist-user.rule](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule) |  直连  |   是   |  直连  |    无      |     无        |  代理-gfwlist列表
+[banAD.acl](https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/banAD.acl)         |  代理  |   是   |  直连  |    有-直连  | 常用域名-直连  |  代理-常用国外域名增强
+[onlybanAD.acl](https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/onlybanAD.acl)     |  代理  |   是   |  直连  |    无      |    无         |  代理-常用国外域名增强
+[nobanAD.acl](https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/nobanAD.acl)       |  代理  |   否   |  直连  |    有-直连  |  常用域名-直连 |  全局代理
+[backcn-banAD.acl](https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/backcn-banAD.acl)  |  代理  |   是   |  直连  |    有-代理  |    无         | 直连-gfwlist列表 
+[gfwlist-banAD.acl](https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/gfwlist-banAD.acl) |  直连  |   是   |  直连  |    无      |    无         |  代理-gfwlist列表
+[fullgfwlist.acl](https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/fullgfwlist.acl )   |  直连  |   否   |  直连  |    无      |    无         |  代理-gfwlist列表
+[gfwlist-user.rule](https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/gfwlist-user.rule) |  直连  |   是   |  直连  |    无      |     无        |  代理-gfwlist列表
 
 
 
@@ -103,13 +103,13 @@
 
 
 # ♻️ SS/SSR ACL Files Download：
-* ACL更新地址（**白名单**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl
-* ACL更新地址（**黑名单**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl
-* ACL更新地址（**全局**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl
-* ACL更新地址（**仅GFWList**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl （原版SS**能且仅能**使用此规则）
-* ACL更新地址（**国内代理**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl
-* ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl
-* SSR C# GFWList user.rule ：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule
+* ACL更新地址（**白名单**）：https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/banAD.acl
+* ACL更新地址（**黑名单**）：https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/gfwlist-banAD.acl
+* ACL更新地址（**全局**）：https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/onlybanAD.acl
+* ACL更新地址（**仅GFWList**）：https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/fullgfwlist.acl （原版SS**能且仅能**使用此规则）
+* ACL更新地址（**国内代理**）：https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/backcn-banAD.acl
+* ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/nobanAD.acl
+* SSR C# GFWList user.rule ：https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/gfwlist-user.rule
 
 
 * SS：https://github.com/shadowsocks
