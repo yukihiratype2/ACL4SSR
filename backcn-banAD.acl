@@ -1,6 +1,6 @@
 #**********************************************************************
-# 07.03
-# 2020年7月3日22:25:52
+# 07.09
+# 2020年7月9日 22:23:50
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -168,7 +168,7 @@
 # Baidu
 (^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.(com|cn)$
 (^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.(com|cn)$
-(^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
+(^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
 (^|\.)ad\.duapps\.com$
 (^|\.)ad\.player\.baidu\.com$
 (^|\.)adx\.xiaodutv\.com$
@@ -219,7 +219,6 @@
 (^|\.)fc-\.cdn\.bcebos\.com$
 (^|\.)fc-feed\.cdn\.bcebos\.com$
 (^|\.)fclick\.baidu\.com$
-(^|\.)feed\.baidu\.com$
 (^|\.)fexclick\.baidu\.com$
 (^|\.)g\.baidu\.com$
 (^|\.)gimg\.baidu\.com$
@@ -1837,7 +1836,7 @@
 (^|\.)hockeyapp\.net$
 (^|\.)smartmailcloud\.com$
 
-# Steam
+# SteamCN
 (^|\.)cdn\.mileweb\.cs\.steampowered\.com\.8686c\.com$
 (^|\.)dl\.steam\.ksyna\.com$
 (^|\.)st\.dl\.bscstorage\.net$
@@ -11681,7 +11680,6 @@
 (^|\.)msha\.gov$
 (^|\.)m\.slandr\.net$
 (^|\.)mswe1\.org$
-(^|\.)m-team\.cc$
 (^|\.)mthruf\.com$
 (^|\.)mtw\.tl$
 (^|\.)muchosucko\.com$
@@ -14375,10 +14373,12 @@
 8.41.4.0/24
 23.246.0.0/18
 37.77.184.0/21
+38.72.126.0/24
 45.57.0.0/17
 64.120.128.0/17
 66.197.128.0/17
 69.53.224.0/19
+103.87.204.0/22
 108.175.32.0/20
 185.2.220.0/22
 185.9.188.0/22
@@ -14415,6 +14415,10 @@
 (^|\.)chaturbate\.com$
 (^|\.)dditscdn\.com$
 (^|\.)livejasmin\.com$
+(^|\.)phncdn\.com$
+(^|\.)phprcdn\.com$
+(^|\.)pornhub\.com$
+(^|\.)pornhubpremium\.com$
 (^|\.)rdtcdn\.com$
 (^|\.)redtube\.com$
 (^|\.)sb-cd\.com$

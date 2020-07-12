@@ -258,7 +258,6 @@ payload:
   - DOMAIN-SUFFIX,fc-.cdn.bcebos.com
   - DOMAIN-SUFFIX,fc-feed.cdn.bcebos.com
   - DOMAIN-SUFFIX,fclick.baidu.com
-  - DOMAIN-SUFFIX,feed.baidu.com
   - DOMAIN-SUFFIX,fexclick.baidu.com
   - DOMAIN-SUFFIX,g.baidu.com
   - DOMAIN-SUFFIX,gimg.baidu.com
@@ -349,8 +348,6 @@ payload:
   - DOMAIN-SUFFIX,ubmcmm.baidustatic.com
   - DOMAIN-SUFFIX,ucstat.baidu.cn
   - DOMAIN-SUFFIX,ucstat.baidu.com
-  - DOMAIN-SUFFIX,ufosdk.baidu.cn
-  - DOMAIN-SUFFIX,ufosdk.baidu.com
   - DOMAIN-SUFFIX,ulic.baidu.com
   - DOMAIN-SUFFIX,ulog.imap.baidu.com
   - DOMAIN-SUFFIX,union.baidu.cn
