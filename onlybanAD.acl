@@ -1,6 +1,6 @@
 #**********************************************************************
-# 07.26
-# 2020年7月26日 20:34:56
+# 08.12
+# 2020年8月12日23:59:52
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -8,8 +8,8 @@
 # 参照lhie1的surge规则改编，致谢!! https://github.com/lhie1/Surge
 # 参照scomper的surge规则改编，致谢!! https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8/revisions
 #
-# 更新记录 https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/more/New.md
-# 下载地址 https://raw.githubusercontent.com/Darkatse/ACL4SSR/master/onlybanAD.acl
+# 更新记录 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/more/New.md
+# 下载地址 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl
 #
 # 参数解释：
 # [proxy_all] 默认代理-本规则使用
@@ -1727,6 +1727,8 @@
 (^|\.)stackoverflow\.com$
 
 # Discord
+(^|\.)discord\.co$
+(^|\.)discord\.com$
 (^|\.)discord\.gg$
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$

@@ -4,9 +4,6 @@
 * 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 仅推荐未root的安卓手机使用。
 * Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
-* 有问题可以发issue或者私聊：**[https://t.me/leosam2048](https://t.me/leosam2048)**
-* 在线订阅转换：**[https://acl4ssr.netlify.com](https://acl4ssr.netlify.com)**
-* 镜像同步地址：**[https://cdn.jsdelivr.net/gh/Darkatse/ACL4SSR@latest/](https://cdn.jsdelivr.net/gh/Darkatse/ACL4SSR@latest/)**
 * [关于中国的互联网](https://github.com/Darkatse/ACL4SSR/wiki/关于中国的互联网)
   
 
@@ -40,8 +37,6 @@
 ## 其他规则转换 clash Quantumul Surge Surfboard Trojan
 
 ​	前后端都是开源的，自己随便搭建。自建的话，只自建后端已经足够
-
-在线订阅转换：**[https://acl4ssr.netlify.com](https://acl4ssr.netlify.com)**
 
 前端：[sub-web]( https://github.com/CareyWang/sub-web)
 
