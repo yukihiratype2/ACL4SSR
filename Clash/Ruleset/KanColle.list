@@ -1,5 +1,5 @@
 # 内容: KanColle
-# 数量: 23
+# 数量: 21
 IP-CIDR,203.104.209.7/32,no-resolve
 IP-CIDR,203.104.209.71/32,no-resolve
 IP-CIDR,203.104.209.87/32,no-resolve
@@ -21,5 +21,3 @@ IP-CIDR,203.104.209.23/32,no-resolve
 IP-CIDR,203.104.209.39/32,no-resolve
 IP-CIDR,203.104.209.55/32,no-resolve
 IP-CIDR,203.104.209.102/32,no-resolve
-DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dmm.co.jp
