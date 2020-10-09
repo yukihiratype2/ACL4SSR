@@ -1,7 +1,7 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2020-09-20 11:22:57
-  # 数量：283条
+  # 更新：2020-10-07 21:32:26
+  # 数量：288条
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -68,11 +68,14 @@ payload:
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN,d151l6v8er5bdm.cloudfront.net
   - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
+  - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
   - DOMAIN-SUFFIX,dazn-api.com
   - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,dazndn.com
   - DOMAIN-SUFFIX,indazn.com
+  - DOMAIN-SUFFIX,indaznlab.com
   - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,sentry.io
 
   # Deezer
   # USER-AGENT,Deezer*
@@ -82,8 +85,9 @@ payload:
   # DisneyPlus
   # USER-AGENT,Disney*
   # USER-AGENT,Disney+*
-  - DOMAIN,cdn.cdn.unid.go.com
   - DOMAIN,cdn.registerdisney.go.com
+  - DOMAIN,cdn.unid.go.com
+  - DOMAIN,disney.my.sentry.io
   - DOMAIN,global.edge.bamgrid.com
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,braze.com
@@ -322,6 +326,7 @@ payload:
   - DOMAIN-SUFFIX,ipstatp.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
