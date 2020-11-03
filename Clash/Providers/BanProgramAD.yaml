@@ -578,7 +578,6 @@ payload:
   - DOMAIN-SUFFIX,security.browser.miui.com
   - DOMAIN-SUFFIX,shenghuo.xiaomi.com
   - DOMAIN-SUFFIX,stat.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,tracking.miui.com
   - DOMAIN-SUFFIX,union.mi.com
   - DOMAIN-SUFFIX,wtradv.market.xiaomi.com
   - DOMAIN-SUFFIX,xmpush.xiaomi.com
@@ -1118,7 +1117,6 @@ payload:
   - DOMAIN-SUFFIX,e.nexac.com
   - DOMAIN-SUFFIX,eq.10jqka.com.cn
   - DOMAIN-SUFFIX,exp.17wo.cn
-  - DOMAIN-SUFFIX,fund.10jqka.com.cn
   - DOMAIN-SUFFIX,game.51yund.com
   - DOMAIN-SUFFIX,ganjituiguang.ganji.com
   - DOMAIN-SUFFIX,grand.ele.me
