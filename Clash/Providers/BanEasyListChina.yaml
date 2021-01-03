@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2021-01-01 18:08:51
-  # 数量：5208条
+  # 更新：2021-01-03 18:06:34
+  # 数量：5213条
 
   - DOMAIN-SUFFIX,00-gov.cn
   - DOMAIN-SUFFIX,0024aaaa.com
@@ -670,6 +670,7 @@ payload:
   - DOMAIN-SUFFIX,ad.52av.one
   - DOMAIN-SUFFIX,ad.52av.tv
   - DOMAIN-SUFFIX,ad.bobi.tw
+  - DOMAIN-SUFFIX,ad.ccement.com
   - DOMAIN-SUFFIX,ad.cdnjm.cn
   - DOMAIN-SUFFIX,ad.muyang888.top
   - DOMAIN-SUFFIX,ad.walkgame.com
@@ -1276,6 +1277,7 @@ payload:
   - DOMAIN-SUFFIX,client.88tours.com
   - DOMAIN-SUFFIX,climbcoder.com
   - DOMAIN-SUFFIX,clmmw.com
+  - DOMAIN-SUFFIX,cloudpsvn.com
   - DOMAIN-SUFFIX,clxxkz.com.cn
   - DOMAIN-SUFFIX,cmaxisolation.com
   - DOMAIN-SUFFIX,cmm.xmfish.com
@@ -3774,6 +3776,7 @@ payload:
   - DOMAIN-SUFFIX,shuangshiyihightgo.top
   - DOMAIN-SUFFIX,shucaihangjia.com
   - DOMAIN-SUFFIX,shuccn.com
+  - DOMAIN-SUFFIX,shukongshebei.net
   - DOMAIN-SUFFIX,shunlige.com
   - DOMAIN-SUFFIX,shunxinyuancaiwu.cn
   - DOMAIN-SUFFIX,shuwuzhan.com
@@ -4346,6 +4349,7 @@ payload:
   - DOMAIN-SUFFIX,wervp.com
   - DOMAIN-SUFFIX,wew.dushiwenxue.net
   - DOMAIN-SUFFIX,wf321.com
+  - DOMAIN-SUFFIX,wfaffwshop.xyz
   - DOMAIN-SUFFIX,wffengtai.com.cn
   - DOMAIN-SUFFIX,wfslj.cn
   - DOMAIN-SUFFIX,wfxoi.xyz
@@ -5108,6 +5112,7 @@ payload:
   - DOMAIN-SUFFIX,zxzhengxin.com
   - DOMAIN-SUFFIX,zybpj.com
   - DOMAIN-SUFFIX,zydyjzw.cn
+  - DOMAIN-SUFFIX,zykxjt.com
   - DOMAIN-SUFFIX,zymro.com
   - DOMAIN-SUFFIX,zyqp9.com
   - DOMAIN-SUFFIX,zyrfanli.com
